@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclideanGCD", "EuclideanGC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclideanGCD.Test", "Euclidean.Test\EuclideanGCD.Test.csproj", "{58C46BF3-4056-47AA-88E2-0B984C723F0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleExtention", "DoubleExtention\DoubleExtention.csproj", "{6880DBC8-1868-4FF1-8149-99F89FE906FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleExtention.Test", "DoubleExtention.Test\DoubleExtention.Test.csproj", "{F6B3C8EB-31A6-4444-BFBF-E75DB2590EC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{58C46BF3-4056-47AA-88E2-0B984C723F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58C46BF3-4056-47AA-88E2-0B984C723F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58C46BF3-4056-47AA-88E2-0B984C723F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6880DBC8-1868-4FF1-8149-99F89FE906FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6880DBC8-1868-4FF1-8149-99F89FE906FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6880DBC8-1868-4FF1-8149-99F89FE906FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6880DBC8-1868-4FF1-8149-99F89FE906FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B3C8EB-31A6-4444-BFBF-E75DB2590EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B3C8EB-31A6-4444-BFBF-E75DB2590EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B3C8EB-31A6-4444-BFBF-E75DB2590EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B3C8EB-31A6-4444-BFBF-E75DB2590EC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
